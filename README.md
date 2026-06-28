@@ -1,7 +1,9 @@
-````markdown
-# CrimeScope PK 🔍
 
-A full-stack Pakistan crime intelligence platform that aggregates, processes, and visualizes crime-related news from major Pakistani media outlets in real time. Built with a modular NLP pipeline, REST API backend, and an interactive React frontend.
+# CrimeScope PK 
+
+A full-stack Pakistan crime intelligence platform that aggregates, processes, and visualizes
+crime-related news from major Pakistani media outlets in real time. Built with a modular NLP
+pipeline, REST API backend, and an interactive React frontend.
 
 ---
 
